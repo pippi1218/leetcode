@@ -66,6 +66,7 @@ class Solution {
                     sum -= 10;
                     value = 90;
                 }
+
                 temp = array[i];
             }
             // if s.charAt(i) is "D" than value = 500;
